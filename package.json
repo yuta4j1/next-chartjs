@@ -5,8 +5,8 @@
   "author": "yuta4j1",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev -p 1234",
-    "build": "next start -p 1234"
+    "dev": "next dev",
+    "build": "next build"
   },
   "dependencies": {
     "chart.js": "^2.9.3",
